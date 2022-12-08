@@ -1,3 +1,4 @@
 module.exports = {
     reactStricMode: true
+
 }
