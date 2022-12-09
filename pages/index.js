@@ -1,4 +1,4 @@
-
+import Footer from '../components/Footer';
 import About from '../components/About';
 
 function Main({ onAppointment }) {
@@ -11,8 +11,7 @@ function Main({ onAppointment }) {
                 <About />
 
             </main>
-
-
+            <Footer />
         </>
     );
 }
