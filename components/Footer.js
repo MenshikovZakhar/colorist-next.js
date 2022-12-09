@@ -16,7 +16,7 @@ function Footer() {
                         />
                         Челябинск, Образцова 13</p>
                     <p className={styles.footer__year}>
-                        <Image className={styles.iqon__location} src='/images/email.png'
+                        <Image className={styles.iqon__email} src='/images/email.png'
                             alt='logo'
                             width={150}
                             height={150}

@@ -76,6 +76,7 @@
 .iqon__email {
     width: 20px;
     margin-right: 10px;
+    height: 20px;
 }
 
 @media(max-width: 1280px) {
