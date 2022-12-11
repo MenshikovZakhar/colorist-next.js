@@ -21,6 +21,7 @@
 7. JSX,
 8. React Router,
 9. Grid Layout и FLexbox,
+10.Next.js.
 
 ## 💻 Как развернуть проект
 
