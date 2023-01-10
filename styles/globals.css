@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+    font-family: 'Philosopher';
+    src: url('../public/fonts/philosopher_bold_italic.eot');
+    /* IE 9 Compatibility Mode */
+    src: url('../public/fonts/philosopher_bold_italic.eot?#iefix') format('embedded-opentype'),
+        /* IE < 9 */
+        url('../public/fonts/philosopher_bold_italic.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../public/fonts/philosopher_bold_italic.woff') format('woff'),
+        /* Firefox >= 3.6, any other modern browser */
+        url('../public/fonts/philosopher_bold_italic.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../public/fonts/philosopher_bold_italic.svg#philosopher_bold_italic') format('svg');
+    /* Chrome < 4, Legacy iOS */
+}
